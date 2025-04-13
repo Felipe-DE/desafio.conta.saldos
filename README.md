@@ -1,5 +1,6 @@
 Gerenciamento de Contas e Saldos em Java
 Este projeto é uma implementação em Java que oferece funcionalidades básicas para gerenciar contas e consultar saldos. Ele foi projetado para ser simples e fácil de entender, ideal para fins de aprendizado ou para ser expandido em projetos maiores.
+
 Funcionalidades
 - 📋 Cadastro de Contas: Crie novas contas com nome do titular e saldo inicial.
 - 💰 Consulta de Saldo: Verifique o saldo disponível em uma conta.
