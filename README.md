@@ -14,7 +14,6 @@ Usabilidade
 - Simular operações bancárias básicas.
 - Testar validação de dados e manipulação de exceções.
 
-- Personalização:- Você pode expandir este código para incluir novas funcionalidades como transferência entre contas, cálculo de juros ou relatórios de transações.
 
 
 
